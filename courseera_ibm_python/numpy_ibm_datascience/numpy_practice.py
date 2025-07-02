@@ -1,6 +1,8 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
+#numpy is a library which deals with 1d array alias vector, 2d array and high dimensional arrays creation, modification, operation and deletion.
+
 # # Define a 2D NumPy array (2 rows, 3 columns)
 # arr = np.array([[1, 2, 3],
 #                 [4, 5, 6]])
